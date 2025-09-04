@@ -1,5 +1,5 @@
 # EX 3C Sudoku Solver
-## DATE:15/04/2025
+## DATE:
 ## AIM:
 To write a python program to find the solution of sudoku puzzle using Backtracking.
 
